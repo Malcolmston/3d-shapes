@@ -1,4 +1,4 @@
-const files = [
+[
 "augmented dodecahedron.obj",
 "augmented hexagonal prism.obj",
 "augmented pentagonal prism.obj",
